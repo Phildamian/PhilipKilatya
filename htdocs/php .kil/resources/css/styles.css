@@ -1,0 +1,269 @@
+/* Styling section for the header  */
+.H{
+   padding-top: -10px;
+    color: red;
+    text-align: center;
+    background-image: url(se.jpg);
+    background-size: cover;
+    width: 100%;
+   
+}
+    
+/* Styling for navbar */
+.nav{
+    display:block;
+    background-color: aquamarine;
+    width: 100%;
+    padding-top: 10px;
+}
+    
+.nbar{
+    
+    background-color:aquamarine;
+   justify-content: space-between;
+    font-size: 40px;
+    height: 5px;
+    display: flex;
+
+}
+
+.product{
+    background-color: chartreuse;
+    text-decoration: none;
+    color: black;
+    
+    
+    height: 50px;
+    padding-top: 50px;
+
+}
+
+
+.product a{
+    font-size: large;
+    text-decoration: underline;
+    background-color: beige;
+    margin-left: 90px;
+    
+    
+    
+    }
+.product a:hover{
+    
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+.nbar a{
+    display: flex;
+   
+}
+
+.nbar a:hover{
+    font-size:40px;
+    background-color:aquamarine;
+    
+}
+
+    
+
+
+
+
+/* Styling for the body */
+.b{
+    
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    margin-top: 20px;
+    text-indent: 0%;
+    font-size: 100px;
+    
+}
+    
+
+    /* Body content */
+    .b{ 
+        height: 400px;
+        width: 100%;
+        padding-top: 100px;
+        background-image: url(e1.jpg);
+    }
+  
+
+    
+    
+
+/* Styling for the footer */
+.Ft{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
+.Ft h1{
+    font-weight: lighter;
+    text-decoration: underline;
+    color: black;
+}
+
+    
+/* Styling for a */
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+/* styling AboutUs */
+.fm{
+    background-image: url(se.jpg);
+}
+.history{
+    background-color: coral;
+    color: black;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 15px;
+    
+
+}
+.mission{
+    background-color: darkseagreen;
+    color: rgb(79, 47, 58);
+    font-size: 50px;
+    font-style: italic;
+   font-weight: bold;
+   border-radius: 20px;
+   margin: 20px;
+   padding: 15px;
+}
+.vision{
+    background-color: brown;
+    font-size:5opx;
+    font-weight: bolder;
+    font-style: normal;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 15px;
+}
+
+/* STYLING FOR ELECTRONICS */
+
+
+.laptop{
+    background-color: aquamarine;
+    display: flex;
+    border: 3px;
+    border-color: aquamarine;
+}
+.phone{
+    background-color: beige;
+    display: flex;
+}
+.c7{
+    background-color: aqua;
+    display: flex;
+}
+.c8{
+    background-color: aqua;
+    display: flex;
+}
+/* styling for vehicles */
+.bmw{
+    background-color: aqua;
+    display: flex;
+}
+.chevy{
+    background-color: beige;
+    display: flex;
+}
+.ford{
+    background-color: cadetblue;
+    display: flex;
+}
+.jag{
+    background-color: darkgray;
+    display: flex;
+}
+.suz{
+    background-color: darkseagreen;
+    display: flex;
+}
+/* Styling for food */
+.beef{
+    display: flex;
+    background-color: aliceblue;
+}
+.chick{
+    display: flex;
+    background-color:darksalmon;
+}
+.sea{
+    display: flex;
+    background-color:goldenrod;
+}
+/* Styling for shoes */
+.lofa{
+    display: flex;
+    background-color:darkcyan ;
+}
+.boot{
+    display: flex;
+    background-color:lightgrey ;
+}
+.js{
+    display: flex;
+    background-color:steelblue ;
+}
+.sn{
+    display: flex;
+    background-color:thistle ;
+}
+.sp{
+    display: flex;
+    background-color:linen;
+}
+/* Styling for beverages */
+.caf{
+    display: flex;
+    background-color:gainsboro ;
+}
+.wine{
+    display: flex;
+    background-color:burlywood ;
+}
+.ck{
+    display: flex;
+    background-color:peachpuff ;
+}
+
+/* Styling on order button */
+button:hover{
+    transform: scale(1.2); 
+    cursor:pointer;   
+}
+/* styling for fruits and vegetables */
+.fruits{
+    background-color: aqua;
+    display: flex;
+}
+.v5{
+    background-color: beige;
+    display: flex;
+    width: 100%;
+}
+.v1{
+    background-color: beige;
+    display: flex;
+}
+.k4,.k5{
+    display: flex;
+    background-color: darksalmon;
+}
+
